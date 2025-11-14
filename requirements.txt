@@ -1,0 +1,13 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+sentencepiece
+tqdm
+pandas
+numpy
+safetensors
+huggingface_hub
+fire
